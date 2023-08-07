@@ -1,0 +1,17 @@
+
+enum { FALSE, TRUE };
+
+bool spotified = TRUE;  // terrified
+
+while (spotified)
+{
+    musicians.perform(NOTMUCH);
+    musicians.earnmoney(NOTTA);
+    society.culture(DOES_NOT_EXIST)
+
+    spotified = !(VINYL || CDS || BLUERAY);
+}
+
+musicians.perform(AGAIN);
+musicians.earnmoney(TRUE);
+society.culture(RETURNS);
